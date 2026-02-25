@@ -69,7 +69,7 @@ Netflix_User_EDA/
   - **Data Manipulation:** Pandas, NumPy
   - **Visualization:** Matplotlib, Seaborn, Plotly
 - **Environment:** Jupyter Notebook
-- **Data Source:** [Kaggle – Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
+- **Data Source:** [Kaggle – Netflix Dataset](https://www.kaggle.com/datasets/ariyoomotade/netflix-data-cleaning-analysis-and-visualization)
 
 ---
 
@@ -96,8 +96,7 @@ Understanding how users engage with content, choose subscription tiers, and cons
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/TejasMJ/Google-Play-Store-App-EDA-.git
-cd Google-Play-Store-App-EDA-
+git clone https://github.com/TejasMJ/Netflix_User_Segmentation_and_Behavior_EDA.git
 ```
 
 ### 2. Create Virtual Environment
